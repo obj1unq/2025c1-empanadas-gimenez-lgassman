@@ -1,6 +1,6 @@
 import empleados.*
 
-test "punto1: Planteo inicial" {
+test "punto1: Planteo inicial " {
 
   baigorria.vender(500)
   galvan.sueldo(20000)
